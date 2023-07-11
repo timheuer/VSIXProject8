@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.33906.491
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIXProject8", "VSIXProject8\VSIXProject8.csproj", "{831C8D02-E754-4B31-BFB0-FF688606F90E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{665CFF16-AB10-4F6C-9DF3-959192C006B3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A1BE6A97-D420-45D8-8EA3-221B4A034760}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
