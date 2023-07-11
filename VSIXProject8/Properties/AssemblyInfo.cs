@@ -15,6 +15,7 @@ using VSIXProject8;
 
 [assembly: AssemblyVersion(Vsix.Version)]
 [assembly: AssemblyFileVersion(Vsix.Version)]
+[assembly: ProvideCodeBase(CodeBase = @"$PackageFolder$\LibGit2Sharp.dll")]
 
 namespace System.Runtime.CompilerServices;
 public class IsExternalInit { }
